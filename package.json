@@ -1,25 +1,6 @@
 {
-  "name": "ecomerce-bootstrap",
-  "version": "1.0.0",
-  "description": "eComerce Responsivo Bootstrao",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ViPradines/ecomerce-bootstrap.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ViPradines/ecomerce-bootstrap/issues"
-  },
-  "homepage": "https://github.com/ViPradines/ecomerce-bootstrap#readme",
   "dependencies": {
-    "bootstrap": "^5.1.3",
-    "bootstrap-icons": "^1.8.3",
-    "node-sass": "^7.0.1"
+    "bootstrap": "^5.2.0-beta1",
+    "bootstrap-icons": "^1.8.3"
   }
 }
