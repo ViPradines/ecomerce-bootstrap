@@ -1,3 +1,11 @@
 body {
     min-width: 372px;
 }
+
+.wrapper {
+    min-height: 100vh;
+}
+
+.justifica-p {
+    text-align: justify;
+}
